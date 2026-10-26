@@ -27,7 +27,7 @@
 **更多：** [spot-on-manual-generator](https://github.com/navisfint/spot-on-manual-generator)（一份内容出多语言 PDF，内嵌市场二维码）·
 [docx-eq-toolkit](https://github.com/navisfint/docx-eq-toolkit)（Word 公式段落转无框线两列表，不破坏 MathType 对象）·
 [bar-light-game](https://github.com/navisfint/bar-light-game)（Arduino 拍击跑马灯，结果先抽后演，观众无法反推）·
-[smartops-system-design](https://github.com/navisfint/smartops-system-design)（运维巡检平台系统设计：五层架构、七模块、28 张界面原型）
+[smartops-system-design](https://github.com/navisfint/smartops-system-design)（运维巡检平台系统设计：五层架构、七模块、28 张界面原型 · **[在线文档](https://navisfint.github.io/smartops-system-design/)**）
 
 ---
 
