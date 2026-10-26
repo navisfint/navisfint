@@ -19,6 +19,12 @@
 | **[crypto-lab-c](https://github.com/navisfint/crypto-lab-c)** | AES-256-CBC / RSA-2048-OAEP / SHA-256 的 C 实现 | 833 行，含雪崩效应实测与篡改验证 |
 | **[pdf-split-toolkit](https://github.com/navisfint/pdf-split-toolkit)** | 扫描件卷宗按目录自动拆分，带 GUI 与单文件 exe | 5 卷**119 个 PDF / 781 页**，首页页码吻合率 **100%** |
 | **[wecom-workflow-automation](https://github.com/navisfint/wecom-workflow-automation)** | 外包业务全链路：订单/派单/结算建模 + 自动化巡检 | 规则落地为表格公式，脚本与公式同口径交叉校验 |
+| **[algo-lab-python-c](https://github.com/navisfint/algo-lab-python-c)** | 六个经典算法的 Python / C 双实现 + 设计思想对比 | 实测：Python 用对算法**比 C 用错算法快 5 倍** |
+| **[android-mic-roster](https://github.com/navisfint/android-mic-roster)** | 安卓端屏幕区域 OCR 名单工具，离线识别 + 悬浮窗 | Kotlin **2344 行**，三级文本清洗，未申请 INTERNET 权限 |
+
+**更多：** [spot-on-manual-generator](https://github.com/navisfint/spot-on-manual-generator)（一份内容出多语言 PDF，内嵌市场二维码）·
+[docx-eq-toolkit](https://github.com/navisfint/docx-eq-toolkit)（Word 公式段落转无框线两列表，不破坏 MathType 对象）·
+[bar-light-game](https://github.com/navisfint/bar-light-game)（Arduino 拍击跑马灯，结果先抽后演，观众无法反推）
 
 ---
 
