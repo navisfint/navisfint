@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+.venv-build/
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.obj
+*.o
+*.pdb
+runtime/
+
+# Output
+output/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data / large files
+*.zip
+*.7z
+*.tgz
+*.wav
+*.mp3
+*.pt
+*.pth
+*.ckpt
+*.db
