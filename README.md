@@ -21,10 +21,13 @@
 | **[wecom-workflow-automation](https://github.com/navisfint/wecom-workflow-automation)** | 外包业务全链路：订单/派单/结算建模 + 自动化巡检 | 规则落地为表格公式，脚本与公式同口径交叉校验 |
 | **[algo-lab-python-c](https://github.com/navisfint/algo-lab-python-c)** | 六个经典算法的 Python / C 双实现 + 设计思想对比 | 实测：Python 用对算法**比 C 用错算法快 5 倍** |
 | **[android-mic-roster](https://github.com/navisfint/android-mic-roster)** | 安卓端屏幕区域 OCR 名单工具，离线识别 + 悬浮窗 | Kotlin **2344 行**，三级文本清洗，未申请 INTERNET 权限 |
+| **[markov-chain-spatial-evolution](https://github.com/navisfint/markov-chain-spatial-evolution)** | 传统 + 空间马尔科夫链演进分析，四分位/KMeans 双分级、五种权重矩阵 | Python **4326 行**，含稳态分布 / 遍历性 / 溢出效应检验 |
+| **[mt5-license-system](https://github.com/navisfint/mt5-license-system)** | 编译后二进制的月度授权分发：打包端 + 服务端 + 客户端 | Ed25519 签名 + HKDF 月派生密钥 + AAD 绑月，**13 项自测全过** |
 
 **更多：** [spot-on-manual-generator](https://github.com/navisfint/spot-on-manual-generator)（一份内容出多语言 PDF，内嵌市场二维码）·
 [docx-eq-toolkit](https://github.com/navisfint/docx-eq-toolkit)（Word 公式段落转无框线两列表，不破坏 MathType 对象）·
-[bar-light-game](https://github.com/navisfint/bar-light-game)（Arduino 拍击跑马灯，结果先抽后演，观众无法反推）
+[bar-light-game](https://github.com/navisfint/bar-light-game)（Arduino 拍击跑马灯，结果先抽后演，观众无法反推）·
+[smartops-system-design](https://github.com/navisfint/smartops-system-design)（运维巡检平台系统设计：五层架构、七模块、28 张界面原型）
 
 ---
 
@@ -57,10 +60,10 @@ SMPL 单位差了 1000 倍导致锚面塌缩——修复后变成 **+0.884 dB**�
 ### 技术栈
 
 ```
-语言      Python · C · JavaScript · VB.NET · SQL
+语言      Python · C · Kotlin · JavaScript · SQL
 AI/图形   PyTorch · 3D Gaussian Splatting · OpenCV · SMPL-X
-数据      pandas · NumPy · SciPy · networkx · matplotlib
-工程      PyQt · PyInstaller · OpenSSL · Git
+数据      pandas · NumPy · SciPy · scikit-learn · networkx · matplotlib
+工程      PyQt · PyInstaller · OpenSSL · cryptography · Android · Arduino · Git
 ```
 
 ---
